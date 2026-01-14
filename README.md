@@ -33,23 +33,17 @@ processes, and continuously monitors system performance.
 ```bash
 sudo apt update
 sudo apt install -y python3 python3-pip python3-venv
-Clone the repository:
 
-bash
+Clone the repository:
 Copy code
 git clone https://github.com/JohnDoe4DOE/python-system-agent.git
 cd python-system-agent
-Create and activate a virtual environment:
 
-bash
+Create and activate a virtual environment:
 Copy code
 python3 -m venv venv
 source venv/bin/activate
-Install dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
 ```
 
 ## Usage

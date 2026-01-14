@@ -37,7 +37,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/python-system-agent.git
+git clone https://github.com/JohnDoe4DOE/python-system-agent.git
 cd python-system-agent
 Create and activate a virtual environment:
 

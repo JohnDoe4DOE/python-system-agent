@@ -50,8 +50,9 @@ Install dependencies:
 bash
 Copy code
 pip install -r requirements.txt
+```
 
-Usage
+##Usage
 
 Run the agent:
 

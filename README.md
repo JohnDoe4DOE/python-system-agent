@@ -52,42 +52,30 @@ Copy code
 pip install -r requirements.txt
 ```
 
-##Usage
+## Usage
 
 Run the agent:
-
 python agent.py
-
 
 The agent will:
 
 Prompt for your name
-
 Display system statistics
-
 Log events to agent.log
-
 Monitor system health every 30 seconds
-
 Stop execution with:
-
 CTRL + C
 
-Example Output
+# Example Output
 CPU usage: 12.4%
 Memory usage: 45%
 Disk usage: 63%
 Computer uptime: 2d 4h 10m
 2026-01-14 10:42:01 [INFO] Agent started
 
-Future Improvements
-
+## Future Improvements
 Run as a systemd service
-
 JSON / structured logging
-
-Alerting (email / Slack)
-
+Alerting (email)
 Configurable thresholds
-
 Cross-platform support (Windows/macOS)

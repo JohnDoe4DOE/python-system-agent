@@ -1,6 +1,3 @@
-# python-system-agent
-python-system-agent
-
 # Python System Monitoring Agent
 
 A lightweight Python system monitoring agent that collects and evaluates
